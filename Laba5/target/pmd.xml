@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.8.0" timestamp="2019-04-11T10:44:05.914">
+<file name="C:\Users\user\Laba5\src\main\java\ua\lviv\iot\part\manager\PartManagerImplTest.java">
+<violation beginline="12" endline="12" begincolumn="1" endcolumn="36" rule="UnusedImports" ruleset="Best Practices" package="ua.lviv.iot.part.manager" class="PartManagerImplTest" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'ua.lviv.iot.part.model.Motor'
+</violation>
+</file>
+</pmd>
