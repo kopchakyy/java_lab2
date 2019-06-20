@@ -1,0 +1,8 @@
+price, serialNumber, producingCountry, partType, brandName, field
+140, LO26039PO, USA, BLOC, HONDA, L
+price, serialNumber, producingCountry, partType, brandName, type
+100, BC2209KO, JAPAN, MOTOR, NISSAN, DIESEL
+price, serialNumber, producingCountry, partType, brandName, numberOfGears, transmissionType
+200, AB9090LP, CHINA, BLOC, HONDA, 2, AUTOMATIC
+price, serialNumber, producingCountry, partType, brandName, numberOfWheels
+170, PC270918LO, JAPAN, WHEEL, LEXSUS, 4
